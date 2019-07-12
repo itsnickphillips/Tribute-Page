@@ -2,14 +2,20 @@
 
 A tribute page for Steve Jobs. A FCC project.
 
+
+
 ## Author(s):
 
 Nicholas Phillips
+
+
 
 ## Technologies:
 
 *HTML5
 *CSS3
+
+
 
 ## How it Works:
 
